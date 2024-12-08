@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/workspaces/ddd-seoul/srcs",
+	"sourceRoot": "/home/runner/work/joosomi.github.io/joosomi.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
