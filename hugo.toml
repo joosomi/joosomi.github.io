@@ -1,0 +1,4 @@
+baseURL = 'https://joosomi.github.io/'  
+languageCode = 'ko-kr'  
+title = "Somi's Blog"  
+theme = 'ananke'
